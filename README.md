@@ -26,4 +26,3 @@ This repository is intended for viewing only. The projects here were created as 
 We believe in learning by doing, and these projects serve as a foundation for participants to develop their own coding skills!
 
 Thank you for supporting our mission! 🚀
-![QueenB Logo]([https://example.com/logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TpCWPBF4XChyB_WGfmNZy9r44bnuF5tMTg&s))
