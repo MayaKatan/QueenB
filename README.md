@@ -6,9 +6,7 @@ This repository showcases example projects developed throughout the year as part
 
 QueenB works to create a future in which women are equally active in the hi-tech industry, influence it, and lead in it. Through hands-on coding experience, mentorship, and community support, we strive to bridge the gender gap in technology and provide young women with the skills and confidence to succeed.
 
-🔗 Learn more about QueenB:  
-[https://queenb.org.il/en/en-home/](https://queenb.org.il/en/en-home/)
-
+🔗 Learn more about QueenB: [https://queenb.org.il/en/en-home/](https://queenb.org.il/en/en-home/)
 
 # What You'll Find Here
 
